@@ -1,0 +1,144 @@
+@font-face{
+    font-family: 'Permanent Marker';
+    src:url(../fonts/alex);
+}
+
+
+
+h1 {
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(56, 35, 3)
+}
+
+h3{
+    font-family: 'Permanent Marker';
+    color:rgb(1, 3, 39);
+}
+
+.ENIAC{
+    background-color: rgba(232, 232, 241, 0.842);
+    padding: 25px;
+    min-height: 225px;
+}
+
+
+.left-side{
+    width: 70%;
+    float: left;
+    height: 200px
+}
+
+.right-side{
+    width: 30%;
+    float:left;
+    height: 200px;
+}
+
+.right-side img{
+    height:180px;
+}
+
+
+.IBM{
+    background-image:url('images/secondoldcomputer.jpg');
+    background-size:cover;
+    background-repeat: none;
+    background-position: center;
+    color:rgb(241, 242, 255);
+}
+
+.IBMsclass{
+    background-color:rgba(241, 214, 154, 0.25);
+    padding: 25px;
+}
+
+.Apple{
+    background-color:#B4CBD9;
+    padding: 25px;
+}
+
+.leftsidemicrosoft{
+    width: 75%;
+    float: left;
+    height: 200px
+}
+
+.rightsidemicrsoft{
+    width: 25%;
+    float:left;
+    height: 200px;
+}
+
+.rightsidemicrsoft img{
+    height:120px;
+}
+
+
+.Microsoft{
+    background-color:rgb(233, 228, 185);
+    padding: 25px;
+    height: 150px;
+}
+
+.World-Wide-Web{
+    background-image:url('images/www.jpg');
+    background-size:cover;
+    background-repeat: none;
+    background-position: center;
+    color:rgb(6, 6, 7);
+}
+
+.wwwsclass{
+    background-color:rgba(147, 202, 172, 0.199);
+    padding: 25px;
+
+}
+
+.Sega-and-sony{
+    background-color:rgb(181, 219, 172);
+    padding: 25px;
+}
+
+.Broadband{
+    background-color:#B4CBD9;
+    padding: 25px;
+    height: 200px;
+}
+
+.leftsbroadband{
+    width: 80%;
+    float: left;
+    height: 200px
+}
+
+.rightsbroadband{
+    width: 20%;
+    float:left;
+    height: 200px;
+}
+
+.rightsbroadband img{
+    height: 135px;
+}
+
+.Connected{
+    background-image:url('images/connected.jpg');
+    background-size:cover;
+    background-repeat: none;
+    background-position: center;
+    color:rgb(6, 6, 7);
+}
+
+.connectedsclass{
+    background-color:rgba(147, 202, 172, 0.199);
+    padding: 25px;
+}
+
+img{
+    padding: 25px;
+}
+
